@@ -5,11 +5,11 @@ This project aims to create interactive financial dashboards using Streamlit. Th
 
 ## Data Sources
 The financial data will be collected from the following sources:
-1. Twitter: Collect tweets related to financial topics and analyze sentiment.
-Wall Street: Obtain financial market data, including indices and stock prices.
-2. Charts: Access historical price data for various financial instruments.
-3. Pattern: Retrieve technical pattern data for pattern recognition.
-4. StockTwits: Gather user-generated content and discussions related to stocks.
+1. *Twitter:* Collect tweets related to financial topics and analyze sentiment.
+2. *Wall Street:* Obtain financial market data, including indices and stock prices.
+3. *Charts:* Access historical price data for various financial instruments.
+4. *Pattern:* Retrieve technical pattern data for pattern recognition.
+5. *StockTwits:* Gather user-generated content and discussions related to stocks.
 
 ## Web Application Features
 1. Interactive visualizations and charts for easy data exploration.
