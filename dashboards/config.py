@@ -7,10 +7,11 @@
 
 # EXECUTION -------------
 
-TWITTER_CONSUMER_KEY = 'dJ6yJGAP8DZRrtoJm3B5siy7j'
-TWITTER_CONSUMER_SECRET = 'r1rI8kFHKRJVbrzkZlBoVD9gcchWHiVtvZPQJTQesVc3UPx15U'
-TWITTER_ACCESS_TOKEN = '863652138961952768-RLBNe2Y3O1McVoe3BcOrVoEgQohiOUv'
-TWITTER_ACCESS_TOKEN_SECRET = 'lj1YPUk3kN9zwGTRqh42LRHA2Pydpny0PBbaR7Ej8lQkZ'
+# Create a Twitter Developers account to obtain your own personal keys and tokens
+TWITTER_CONSUMER_KEY = '...'
+TWITTER_CONSUMER_SECRET = '...'
+TWITTER_ACCESS_TOKEN = '...'
+TWITTER_ACCESS_TOKEN_SECRET = '...'
 TWITTER_USERNAMES = [
     'traderstewie',
     'the_chart_life',
