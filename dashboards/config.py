@@ -6,7 +6,6 @@
 
 
 # EXECUTION -------------
-
 # Create a Twitter Developers account to obtain your own personal keys and tokens
 TWITTER_CONSUMER_KEY = '...'
 TWITTER_CONSUMER_SECRET = '...'
